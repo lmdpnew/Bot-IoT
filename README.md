@@ -1,6 +1,6 @@
 # Bot-IoT Jupyter Notebooks
 
-Welcome to Bot-IoT Jupyter Notebooks ! 
+Welcome to Bot-IoT Jupyter Notebooks ! Analysis and Classification of Attacks using Realistic Botnet Dataset in Internet of Thing
 
 # The BoT-IoT dataset 
 
@@ -9,3 +9,5 @@ The BoT-IoT dataset was created by designing a realistic network environment in 
 The captured pcap files are 69.3 GB in size, with more than 72.000.000 records. The extracted flow traffic, in csv format is 16.7 GB in size. The dataset includes DDoS, DoS, OS and Service Scan, Keylogging and Data exfiltration attacks, with the DDoS and DoS attacks further organized, based on the protocol used.
 
 To ease the handling of the dataset, we extracted 5% of the original dataset via the use of select MySQL queries. The extracted 5%, is comprised of 4 files of approximately 1.07 GB total size, and about 3 million records
+
+# The Proposed Approach
